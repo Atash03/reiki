@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1280 304">
+  <path fill="#FED501" d="M488 0h152v152H488z"/>
+  <path fill="#fff" d="M488 76h76c0 41.974-34.026 76-76 76V76Z"/>
+  <path fill="#007CC2" d="M564 0c41.974 0 76 34.026 76 76h-76V0Z"/>
+  <path fill="#DE5217" d="M488 152h152v152H488z"/>
+  <path fill="#A4C14D" d="M564 228h76c0 41.974-34.026 76-76 76v-76Z"/>
+  <path fill="#007CC2" d="M564 228c-41.974 0-76 34.026-76 76h76v-76Z"/>
+  <path fill="#fff" d="M184 152h152v152H184z"/>
+  <path fill="#A4C14D" d="M336 228h-76c0 41.974 34.026 76 76 76v-76Z"/>
+  <path fill="#007CC2" d="M260 152c41.974 0 76 34.026 76 76h-76v-76Z"/>
+  <path fill="#fff" d="M336 0h152v152H336z"/>
+  <path fill="#A4C14D" d="M412 76h76l-76 76V76Zm0-76v76h-76l76-76Z"/>
+  <path fill="#FED501" d="M336 152h152v152H336z"/>
+  <path fill="#007CC2" d="M412 304c-41.974 0-76-34.026-76-76s34.026-76 76-76v152Z"/>
+  <circle cx="412" cy="228" r="38" fill="#fff"/>
+  <path fill="#fff" d="M32 0h152v152H32z"/>
+  <path fill="#A4C14D" d="M108 76h76v76h-76z"/>
+  <path fill="#DE5217" d="M32 0h76v76H32zm0 152h152v152H32z"/>
+  <circle cx="108" cy="228" r="38" fill="#fff"/>
+  <path fill="#007CC2" d="M184 304H32l76-76 76 76Z"/>
+  <path fill="#FED501" d="M184 0h152v152H184z"/>
+  <path fill="#007CC2" d="M336 0v152H184L336 0Z"/>
+  <circle cx="260" cy="76" r="38" fill="#fff"/>
+  <path fill="#DE5217" d="M944 0h152v152H944z"/>
+  <path fill="#fff" d="M1020 76V0l76 76h-76Z"/>
+  <path fill="#A4C14D" d="M944 76h76v76l-76-76Z"/>
+  <path fill="#DE5217" d="M640 152h152v152H640z"/>
+  <path fill="#A4C14D" d="M640 228c0-41.974 34.026-76 76-76s76 34.026 76 76H640Z"/>
+  <circle cx="716" cy="266" r="38" fill="#fff"/>
+  <path fill="#fff" d="M792 152h152v152H792z"/>
+  <path fill="#A4C14D" d="M792 228c0-41.974 34.026-76 76-76s76 34.026 76 76H792Z"/>
+  <path fill="#007CC2" d="M868 304c-41.974 0-76-34.026-76-76s34.026-76 76-76v152Z"/>
+  <circle cx="906" cy="266" r="38" fill="#FED501"/>
+  <path fill="#fff" d="M640 0h152v152H640z"/>
+  <path fill="#007CC2" d="M792 152c-41.974 0-76-34.026-76-76s34.026-76 76-76v152Z"/>
+  <circle cx="678" cy="76" r="38" fill="#FED501"/>
+  <path fill="#FED501" d="M792 0h152v152H792z"/>
+  <path fill="#007CC2" d="M792 152c41.974 0 76-34.026 76-76S833.974 0 792 0v152Z"/>
+  <path fill="#fff" d="M944 0v152l-76-76 76-76Z"/>
+  <path fill="#DE5217" d="M944 152h152v152H944z"/>
+  <path fill="#007CC2" d="M944 152h76v76h-76z"/>
+  <path fill="#fff" d="M1020 228h76v76h-76zm76-76h152v152h-152z"/>
+  <circle cx="1172" cy="228" r="38" fill="#211F1F"/>
+  <path fill="#007CC2" d="M1248 304h-152l76-76 76 76Z"/>
+  <path fill="#A4C14D" d="M1248 228h-152l76-76 76 76Z"/>
+  <path fill="#fff" d="M1096 0h152v152h-152z"/>
+  <path fill="#A4C14D" d="M1096 0h152v152L1096 0Z"/>
+  <circle cx="1172" cy="76" r="38" fill="#007CC2"/>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reiki/static/css/main.cb312975.css",
+    "main.js": "/reiki/static/js/main.88ee5ada.js",
+    "static/media/quote.jpg": "/reiki/static/media/quote.7986cab1f74900c273a0.jpg",
+    "static/media/invitation.jpg": "/reiki/static/media/invitation.50a89c9555cbf55d765a.jpg",
+    "static/media/presenter.jpg": "/reiki/static/media/presenter.8e0ce8282e88d6735b03.jpg",
+    "static/media/item1.png": "/reiki/static/media/item1.c6766af52b99ba59dab7.png",
+    "static/media/item2.png": "/reiki/static/media/item2.b9620a291073b44b86fa.png",
+    "static/media/footer.svg": "/reiki/static/media/footer.86ccd590f1a490ab98b4fc74ec71472a.svg",
+    "static/media/logo.svg": "/reiki/static/media/logo.8ae886543a3cd30c67f2d371ec806715.svg",
+    "static/media/header.svg": "/reiki/static/media/header.22f8c8b8d01e538ee76a07f2847950de.svg",
+    "static/media/github.svg": "/reiki/static/media/github.746a8fcb33ee074ed07d7401dec6a732.svg",
+    "static/media/question.svg": "/reiki/static/media/question.d68905fa110b0775cfefcb7e63053142.svg",
+    "static/media/question1.svg": "/reiki/static/media/question1.1d3c4d2d4bff5bbcc186c77ca1158083.svg",
+    "static/media/linkedln.svg": "/reiki/static/media/linkedln.aae56fd23423e92a6c3f40c657076646.svg",
+    "static/media/feature2.svg": "/reiki/static/media/feature2.695090d70ff3c919c6171f1e414b67df.svg",
+    "index.html": "/reiki/index.html",
+    "static/media/facebook.svg": "/reiki/static/media/facebook.12615fd6caa0716cd85c82086c9b3531.svg",
+    "static/media/twitter.svg": "/reiki/static/media/twitter.a3cc2cde75f1ed3efa03e787fc2a382f.svg",
+    "static/media/feature1.svg": "/reiki/static/media/feature1.3ef6f69fa5f4bbc1fd05d7813d800028.svg",
+    "main.cb312975.css.map": "/reiki/static/css/main.cb312975.css.map",
+    "main.88ee5ada.js.map": "/reiki/static/js/main.88ee5ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb312975.css",
+    "static/js/main.88ee5ada.js"
+  ]
+}
