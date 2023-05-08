@@ -1,0 +1,26 @@
+.reiki__questions {
+    display: flex;
+    flex-direction: column;
+} 
+
+.reiki__questions-heading div {
+    width: 100%;
+    height: 3px;
+    background: #DE5217;
+}
+
+.reiki__questions-heading img {
+    margin-top: 24px;
+}
+
+.reiki__questions-question {
+    font-family: var(--font-family);
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: var(--color-footer);
+
+    width: 100%;
+    margin-top: 32px;
+}

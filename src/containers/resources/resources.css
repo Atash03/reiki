@@ -1,0 +1,39 @@
+.reiki__resources {
+    display: flex;
+    flex-direction: column;
+}
+
+.reiki__resources-title h1 {
+    font-family: var(--font-family);
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 72px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: var(--color-footer);
+}
+
+.reiki__resources-container {
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 4rem;
+}
+
+@media screen and (max-width: 1150px) {
+    .reiki__resources-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .reiki__resources-title h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .reiki__resources-container {
+        margin-top: 3rem;
+    }
+}

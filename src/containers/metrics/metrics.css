@@ -1,0 +1,93 @@
+.reiki__metrics {
+    background-color: #000;
+
+    padding-top: 10rem;
+}
+
+.reiki__metrics-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.reiki__metrics-content_date {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.reiki__metrics-content_date h1 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: #A4C14D;
+}
+
+.reiki__metrics-content_date p {
+    font-family: var(--font-family1);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.reiki__metrics-content_date button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #FFFFFF;
+    filter: drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.05));
+    border-radius: 200px;
+    background: transparent;
+    font-family: var(--font-family1);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px; 
+    color: #FFFFFF;
+    cursor: pointer;
+
+    margin-top: 1rem;
+}
+
+.reiki__metrics-content_meeting {
+    display: flex;
+    flex-direction: column;
+}
+
+.reiki__metrics-content_meeting h1 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+.reiki__metrics-content_meeting p {
+    font-family: var(--font-family1);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 1240px) {
+    .reiki__metrics-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .reiki__metrics-content_date {
+        align-items: center;
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .reiki__metrics-content_date h1,
+    .reiki__metrics-content_meeting h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}

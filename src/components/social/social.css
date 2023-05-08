@@ -1,0 +1,9 @@
+.reiki__social {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.reiki__social img {
+    margin-left: 1rem;
+}

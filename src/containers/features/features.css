@@ -1,0 +1,32 @@
+.reiki__features {
+    display: flex;
+}
+
+.reiki__features-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.reiki__features-container_edited {
+    width: 50%;
+}
+
+.reiki__features-container_edited .reiki__feature {
+    width: 100%;
+}
+
+.reiki__features-container_edited .reiki__feature-content h1 {
+    width: 40%;
+}
+
+@media screen and (max-width: 1000px) {
+    .reiki__features-container {
+        flex-direction: column;
+    }
+
+    .reiki__features-container_edited {
+        width: 100%;
+        margin-top: 4rem;
+    }
+}

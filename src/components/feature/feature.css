@@ -1,0 +1,39 @@
+.reiki__feature {
+    display: flex;
+    width: 47%;
+}
+
+.reiki__feature-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.reiki__feature-content h1 {
+    font-family: var(--font-family);
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 38px;
+    color: var(--color-footer);
+
+    width: 70%;
+    margin-top: 2rem;
+}
+
+.reiki__feature-content p {
+    font-family: var(--font-family1);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+
+    width: 78%;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 1000px) {
+    .reiki__feature {
+        width: 100%;
+    }
+}
