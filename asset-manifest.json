@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reiki/static/css/main.cb312975.css",
+    "main.css": "/reiki/static/css/main.56a293a9.css",
     "main.js": "/reiki/static/js/main.88ee5ada.js",
     "static/media/quote.jpg": "/reiki/static/media/quote.7986cab1f74900c273a0.jpg",
     "static/media/invitation.jpg": "/reiki/static/media/invitation.50a89c9555cbf55d765a.jpg",
@@ -19,11 +19,11 @@
     "static/media/facebook.svg": "/reiki/static/media/facebook.12615fd6caa0716cd85c82086c9b3531.svg",
     "static/media/twitter.svg": "/reiki/static/media/twitter.a3cc2cde75f1ed3efa03e787fc2a382f.svg",
     "static/media/feature1.svg": "/reiki/static/media/feature1.3ef6f69fa5f4bbc1fd05d7813d800028.svg",
-    "main.cb312975.css.map": "/reiki/static/css/main.cb312975.css.map",
+    "main.56a293a9.css.map": "/reiki/static/css/main.56a293a9.css.map",
     "main.88ee5ada.js.map": "/reiki/static/js/main.88ee5ada.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb312975.css",
+    "static/css/main.56a293a9.css",
     "static/js/main.88ee5ada.js"
   ]
 }
